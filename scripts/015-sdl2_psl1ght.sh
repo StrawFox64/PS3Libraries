@@ -2,7 +2,7 @@
 # sdl2_psl1ght.sh by Naomi Peori (naomi@peori.ca)
 
 ## Download the source code.
-wget --no-check-certificate https://github.com/StrawFox64/SDL2PSL1GHT -O sdl2_psl1ght.tar.gz
+wget --no-check-certificate https://github.com/StrawFox64/SDL2PSL1GHT/tarball/master -O sdl2_psl1ght.tar.gz
 
 ## Create the build directory.
 rm -Rf sdl2_psl1ght && mkdir sdl2_psl1ght
